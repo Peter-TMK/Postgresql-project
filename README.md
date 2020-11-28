@@ -1,0 +1,1 @@
+A postgresql project analysis on  customers' products sales.
